@@ -1,0 +1,33 @@
+{
+  "topic": [
+    {
+      "id": 1,
+      "title": "lowdb",
+      "desciption": "low db is..",
+      "author_id": 1
+    },
+    {
+      "id": 2,
+      "title": "mysql",
+      "desciption": "mysql is..",
+      "author_id": 1
+    }
+  ],
+  "author": [
+    {
+      "id": 1,
+      "name": "jhyyk",
+      "profile": "developer"
+    },
+    {
+      "id": 2,
+      "name": "sjw",
+      "profile": "programmer"
+    },
+    {
+      "id": "R2CeVLRg",
+      "name": "would",
+      "profile": "coffee"
+    }
+  ]
+}
