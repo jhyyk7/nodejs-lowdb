@@ -27,6 +27,10 @@ db.defaults({ topic: [], author: [] })
 //     .assign({name:'jhyyk'})
 //     .write()
 
+// db.get('topic')
+//   .remove({id:i})
+//   .write()
+
 
 // console.log(db.get('topic')
 //     .find({id:1})
